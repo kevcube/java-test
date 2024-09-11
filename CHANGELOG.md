@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/kevcube/java-test/compare/kevin-test-v0.3.0...kevin-test-v0.4.0) (2024-09-11)
+
+
+### Features
+
+* prerelease ([f66e246](https://github.com/kevcube/java-test/commit/f66e2467d935cb54228f09af148d4b4a246c422e))
+
 ## [0.3.0](https://github.com/kevcube/java-test/compare/kevin-test-v0.2.0...kevin-test-v0.3.0) (2024-09-11)
 
 
