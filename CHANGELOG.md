@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0-alpha.3](https://github.com/kevcube/java-test/compare/kevin-test-v1.2.0-alpha.2...kevin-test-v1.2.0-alpha.3) (2024-09-12)
+
+
+### Features
+
+* prereleasesssss ([307ba4e](https://github.com/kevcube/java-test/commit/307ba4e6ac1028fe83fd31c882c4566480b95c95))
+
 ## [1.2.0-alpha.2](https://github.com/kevcube/java-test/compare/kevin-test-v1.2.0-alpha.1...kevin-test-v1.2.0-alpha.2) (2024-09-12)
 
 
