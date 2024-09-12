@@ -6,7 +6,7 @@
       "skip-snapshot": true,
       "versioning": "prerelease",
       "prerelease-type": "alpha",
-      "extra-label": "autorelease: staging"
+      "extra-label": "staging-release"
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"

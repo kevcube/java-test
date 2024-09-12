@@ -8,7 +8,7 @@ permissions: write-all
 jobs:
   release-please:
     runs-on: ubuntu-latest
-    if: github.event.pull_request.merged == true && contains(github.event.pull_request.labels.*.name, 'autorelease: staging')
+    if: github.event.pull_request.merged == true && contains(github.event.pull_request.labels.*.name, 'staging-release')
     steps:
       # - uses: docker://agilepathway/pull-request-label-checker:latest
       #   with:
