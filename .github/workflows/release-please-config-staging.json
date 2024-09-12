@@ -5,7 +5,8 @@
       "release-type": "maven",
       "skip-snapshot": true,
       "versioning": "prerelease",
-      "prerelease-type": "alpha"
+      "prerelease-type": "alpha",
+      "extra-label": "autorelease: staging"
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
