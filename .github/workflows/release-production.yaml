@@ -1,20 +1,14 @@
 on:
-  pull_request:
-    types:
-      - closed
+  push:
+    branches:
+      - main
 
 permissions: write-all
 
 jobs:
   release-please:
     runs-on: ubuntu-latest
-    if: github.event.pull_request.merged == true && contains(github.event.pull_request.labels.*.name, 'staging-release')
     steps:
-      # - uses: docker://agilepathway/pull-request-label-checker:latest
-      #   with:
-      #     all_of: "autorelease: staging"
-      #     repo_token: ${{ secrets.GITHUB_TOKEN }}
-
       - uses: googleapis/release-please-action@v4
         with:
           config-file: .github/release-please-config-prod.json
