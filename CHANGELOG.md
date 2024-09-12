@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0-alpha.4](https://github.com/kevcube/java-test/compare/kevin-test-v1.2.0-alpha.3...kevin-test-v1.2.0-alpha.4) (2024-09-12)
+
+
+### Features
+
+* use push.branches.main for both release types ([3676930](https://github.com/kevcube/java-test/commit/367693075e09a8829bac88270be125e86484c597))
+
 ## [1.2.0-alpha.3](https://github.com/kevcube/java-test/compare/kevin-test-v1.2.0-alpha.2...kevin-test-v1.2.0-alpha.3) (2024-09-12)
 
 
