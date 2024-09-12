@@ -4,6 +4,7 @@
       "package-name": "kevin-test",
       "release-type": "maven",
       "skip-snapshot": true,
+      "prerelease": true,
       "versioning": "prerelease",
       "prerelease-type": "alpha",
       "extra-label": "staging-release"
