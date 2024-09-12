@@ -3,8 +3,8 @@
     ".": {
       "package-name": "kevin-test",
       "release-type": "maven",
-      "prerelease": true,
-      "skip-snapshot": true
+      "skip-snapshot": true,
+      "versioning": "prerelease"
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
