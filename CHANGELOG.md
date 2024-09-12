@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0-alpha.2](https://github.com/kevcube/java-test/compare/kevin-test-v1.2.0-alpha.1...kevin-test-v1.2.0-alpha.2) (2024-09-12)
+
+
+### Features
+
+* do nothinnnnggggg ([6b34352](https://github.com/kevcube/java-test/commit/6b34352eb5fdd2871fe422b35a4b0c67bc16884a))
+
+
+### Bug Fixes
+
+* fix ([21da5ac](https://github.com/kevcube/java-test/commit/21da5aca2185ebc03fc4dfab4ba33797181f1006))
+
 ## [1.2.0-alpha.1](https://github.com/kevcube/java-test/compare/kevin-test-v1.2.0-alpha...kevin-test-v1.2.0-alpha.1) (2024-09-12)
 
 
